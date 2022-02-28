@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 import java.util.*;
-public class MainClass{
+public class KataMainClass{
      public static void main(String []args){
        Account account1 = new Account(1234, 10550.5);
        account1.createOperation("save", 1000);
